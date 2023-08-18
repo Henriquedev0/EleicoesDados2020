@@ -11,7 +11,8 @@ Abra o terminal para instalar a Biblioteca
    pip install pandas
    
 ```
-    Apos isso extraia o pacote EleicoesDados2020.
+    Apos isso extraia o pacote perfil_eleitorado_2020 e SP_turno_1
+    
 ## Stack 
 
 Python
