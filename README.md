@@ -1,7 +1,7 @@
 
 # Programa Eleições 2020 SP
 
-    Este programa em Python usa os dados das eleições de 2020 paratrazer informações de modo rápido e fácil.
+    Este programa em Python usa os dados das eleições de 2020 para trazer informações de modo rápido e fácil.
 
 ## Installation
 
